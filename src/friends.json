@@ -1,0 +1,62 @@
+[
+    {
+    "id": 1,
+    "image": "http://placekitten.com/200/301",
+    "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "http://placekitten.com/200/302",
+        "clicked": false
+        },
+        {
+            "id": 3,
+            "image": "http://placekitten.com/200/303",
+            "clicked": false
+            },
+            {
+                "id": 4,
+                "image": "http://placekitten.com/200/304",
+                "clicked": false
+                },
+                {
+                    "id": 5,
+                    "image": "http://placekitten.com/200/305",
+                    "clicked": false
+                    },
+                    {
+                        "id": 6,
+                        "image": "http://placekitten.com/200/306",
+                        "clicked": false
+                        },
+                        {
+                            "id": 7,
+                            "image": "http://placekitten.com/200/307",
+                            "clicked": false
+                            },
+                            {
+                                "id": 8,
+                                "image": "http://placekitten.com/200/308",
+                                "clicked": false
+                                },
+                                {
+                                    "id": 9,
+                                    "image": "http://placekitten.com/200/309",
+                                    "clicked": false
+                                    },
+                                    {
+                                        "id": 10,
+                                        "image": "http://placekitten.com/200/310",
+                                        "clicked": false
+                                        },
+                                        {
+                                            "id": 11,
+                                            "image": "http://placekitten.com/200/311",
+                                            "clicked": false
+                                            },
+                                            {
+                                                "id": 12,
+                                                "image": "http://placekitten.com/200/312",
+                                                "clicked": false
+                                                }
+                                            ]
